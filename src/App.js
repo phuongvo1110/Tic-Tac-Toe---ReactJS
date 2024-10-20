@@ -101,7 +101,7 @@ function Game() {
         } else if (move > 0) {
           description = `Go to move #${move} (${row}, ${col})`;
         } else {
-          description = "Go to game start";
+          description = "Go to game start";//sdfsdsf
         }
     
         return (
